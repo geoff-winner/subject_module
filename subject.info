@@ -1,0 +1,5 @@
+name = Subject
+description = Removes the subject line from comments made by users.
+package = Epicodus Assessment
+core = 7.x
+files[]= subject.module
